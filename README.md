@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection
+![Firefly Credit Card Fraud Detection 29873](https://github.com/user-attachments/assets/2bbebf22-ff53-4823-9f50-af1b682d3a84)
 
 ## Overview
 
